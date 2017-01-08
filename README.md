@@ -2,15 +2,12 @@
 LuaJIT FFI bindings for Assimp
 
 ## Install
-
 ### macOS
-
 ```bash
 brew install assimp
 ```
 
 ## License
-
 The MIT License
 
 Copyright (c) 2017 Planimeter. http://planimeter.org
